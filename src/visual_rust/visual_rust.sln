@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{78C9907C-C22D-4F8D-B13A-49F213FF1631}") = "rust_application1", "rust_application1\rust_application1.rsproj", "{5E418087-1D75-45B4-9C6B-88D0308D196E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|default = Debug|default
+		Release|default = Release|default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E418087-1D75-45B4-9C6B-88D0308D196E}.Debug|default.ActiveCfg = Debug|default
+		{5E418087-1D75-45B4-9C6B-88D0308D196E}.Debug|default.Build.0 = Debug|default
+		{5E418087-1D75-45B4-9C6B-88D0308D196E}.Release|default.ActiveCfg = Release|default
+		{5E418087-1D75-45B4-9C6B-88D0308D196E}.Release|default.Build.0 = Release|default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
