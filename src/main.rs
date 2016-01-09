@@ -25,4 +25,5 @@ fn main() {
 	for p in philosophers {
 		p.eat();
 	}
+
 }
