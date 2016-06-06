@@ -1,5 +1,5 @@
 fn operators() { 
-    let three_cubed = isize::pow(3, 3);
+    let three_quad = isize::pow(3, 4);
     println!("{}", three_cubed);
 }
 fn main() {
